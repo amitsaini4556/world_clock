@@ -1,6 +1,6 @@
 # world_clock
 
-A new Flutter application.
+Choose your locations and show current local time.
 
 ## Getting Started
 
